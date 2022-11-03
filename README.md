@@ -6,8 +6,7 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bisht-arun&theme=react-dark)
 
-
-https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20I'm%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&color=68F72F&duration=3000&center=true&width=446&lines=My+Name+is+Arun+Singh)
 
 
 
