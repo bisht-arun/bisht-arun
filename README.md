@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bisht-arun
 - 👀 I’m interested in Contributing in Open Source
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on Real life projects
 - 📫 How to reach me - Just one text away
 
