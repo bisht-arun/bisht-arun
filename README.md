@@ -2,9 +2,13 @@
 
 <br>
 - 👋 Hi, I’m @bisht-arun
+<br>
 - 👀 I’m interested in Contributing in Open Source
+<br>
 - 🌱 I’m currently learning DSA in C++
+<br>
 - 💞️ I’m looking to collaborate on Real life projects
+<br>
 - 📫 How to reach me - Just one text away
 
 
