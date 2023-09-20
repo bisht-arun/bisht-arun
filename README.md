@@ -6,7 +6,9 @@
 
 
 
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Arun Singh!]
+<!--  # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Arun Singh!] -->
+
+<h1 align="center">Hi 👋, I'm ARUN SINGH</h1>
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisht-arun&layout=compact&theme=dark" /> -->
 
