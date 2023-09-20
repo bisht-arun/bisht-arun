@@ -1,3 +1,6 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi👋%20This%20is%20ARUN&text2=Welcom%20to%20my%20GitHub&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+
 - 👋 Hi, I’m @bisht-arun
 - 👀 I’m interested in Contributing in Open Source
 - 🌱 I’m currently learning DSA in C++
@@ -8,7 +11,7 @@
 
 <!--  # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Arun Singh!] -->
 
-<h1 align="center">Hi 👋, I'm ARUN SINGH</h1>
+<!-- <h1 align="center">Hi 👋, I'm ARUN SINGH</h1> -->
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisht-arun&layout=compact&theme=dark" /> -->
 
