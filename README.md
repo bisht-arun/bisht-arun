@@ -1,6 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi👋%20This%20is%20ARUN&text2=Welcom%20to%20my%20GitHub&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi👋%20This%20is%20ARUN%20SINGH&text2=Welcom%20to%20my%20GitHub&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-
+<br>
 - 👋 Hi, I’m @bisht-arun
 - 👀 I’m interested in Contributing in Open Source
 - 🌱 I’m currently learning DSA in C++
