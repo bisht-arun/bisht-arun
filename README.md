@@ -12,6 +12,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=bisht-arun&show_icons=true&locale=en&theme=radical&hide_border=true">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisht-arun&label=Profile%20views&color=0e75b6&style=flat" alt="bisht-arun" /> </p>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=bisht-arun)
 
 ![Languages used by Arun](https://github-readme-stats.vercel.app/api/top-langs/?username=bisht-arun&hide_border=true&langs_count=10&layout=compact)
